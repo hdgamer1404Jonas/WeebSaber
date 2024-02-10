@@ -7,7 +7,7 @@ Welcome to Weeb Saber, where the magic of anime meets the rhythmic fury of Beat 
 ## Features
 
 - **Anime Overload**: Dive into a world of anime goodness with a plethora of weeb-tastic content added to Beat Saber.
-- **Weebify Everything**: From custom sabers to themed backgrounds and even special effects, your Beat Saber experience will never be the same.
+- **Weebify Everything**: From custom menus to themed backgrounds and even special effects, your Beat Saber experience will never be the same.
 - **Weeb Community**: Join forces with fellow otaku and share your love for anime-inspired rhythm gaming.
 
 ## Disclaimer
