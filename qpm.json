@@ -5,7 +5,7 @@
   "info": {
     "name": "Weeb Saber",
     "id": "weebsaber",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "url": null,
     "additionalData": {
       "overrideSoName": "libweebsaber.so",

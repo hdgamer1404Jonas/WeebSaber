@@ -365,7 +365,6 @@ MAKE_HOOK_MATCH(TextMeshProUGUI_set_text, &HMUI::CurvedTextMeshPro::set_text, vo
     self->set_fontStyle(TMPro::FontStyles::Normal);
     // make it pink
     self->set_color(UnityEngine::Color(1.0f, 0.0f, 1.0f, 1.0f));
-    self->set_fontSize(self->get_fontSize() - 0.5);
     TextMeshProUGUI_set_text(self, value);
 }
 
