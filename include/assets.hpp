@@ -37,6 +37,8 @@ namespace IncludedAssets {
 	DECLARE_FILE(background_jpg)
 	DECLARE_FILE(banner_base64)
 	DECLARE_FILE(banner_png)
+	DECLARE_FILE(banner2_base64)
+	DECLARE_FILE(banner2_png)
 	DECLARE_FILE(campaign_image_base64)
 	DECLARE_FILE(campaign_image_png)
 	DECLARE_FILE(group_image_base64)

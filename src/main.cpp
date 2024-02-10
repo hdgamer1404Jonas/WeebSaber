@@ -274,8 +274,8 @@ MAKE_HOOK_MATCH(MainMenuUIHook, &GlobalNamespace::MainMenuViewController::DidAct
         auto* rightScreen = QuestUI::BeatSaberUI::CreateFloatingScreen({ 120, 240 }, { 15.0f, 17.0f, 25.0 }, { 0, 0, 0 }, 0.0f, false, false, 1);
         leftScreen->GetComponent<UnityEngine::Canvas*>()->set_sortingOrder(0);
         rightScreen->GetComponent<UnityEngine::Canvas*>()->set_sortingOrder(0);
-        HMUI::ImageView* leftImage = QuestUI::BeatSaberUI::CreateImage(leftScreen->get_transform(), QuestUI::BeatSaberUI::Base64ToSprite(banner), { 0, 0 }, { 200.0f, 400.0f });
-        HMUI::ImageView* rightImage = QuestUI::BeatSaberUI::CreateImage(rightScreen->get_transform(), QuestUI::BeatSaberUI::Base64ToSprite(banner), { 0, 0 }, { 200.0f, 400.0f });
+        HMUI::ImageView* leftImage = QuestUI::BeatSaberUI::CreateImage(leftScreen->get_transform(), QuestUI::BeatSaberUI::Base64ToSprite(banner2), { 0, 0 }, { 200.0f, 400.0f });
+        HMUI::ImageView* rightImage = QuestUI::BeatSaberUI::CreateImage(rightScreen->get_transform(), QuestUI::BeatSaberUI::Base64ToSprite(banner2), { 0, 0 }, { 200.0f, 400.0f });
 
         auto* material = UnityEngine::Material::New_ctor(il2cpp_utils::newcsstr("PanoramaSkybox"));
 
